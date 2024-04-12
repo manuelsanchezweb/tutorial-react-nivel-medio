@@ -1,4 +1,14 @@
-# React + Vite
+<div align="center">
+
+<a href="https://github.com/manuelsanchezweb/tutorial-react-nivel-medio">
+  <img src="./app.png" alt="Logo" width="300" />
+</a>
+
+# React Nivel Medio
+
+</div>
+
+## TODOS:
 
 - Vite - React JavaScript, we will add Tailwind
 
@@ -9,4 +19,4 @@
 - Elegir o los sorting (useMemo, useRef)
 - Elegir o los favourite con el estado (zustand)
 
-Hablar del useState hell, del useEffect hell, del Provider Hell
+Hablar del useState hell, del useEffect hell, del Provider Hellå
