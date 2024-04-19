@@ -24,5 +24,5 @@ The repo is divided into classes. You will see for example the folder `clase-1` 
 | #   | Date       | Content                                                                |
 | --- | ---------- | ---------------------------------------------------------------------- |
 | 1   | 12/04/2024 | **Fetch using useQuery, Skeleton, Isolate common global variables...** |
-| 2   | 19/04/2024 | **Sorting / Escape from useEffect hell!**                              |
+| 2   | 19/04/2024 | **Sorting, IconManager, CustomHook, Git!**                             |
 | 3   | TBD        | TBD                                                                    |
